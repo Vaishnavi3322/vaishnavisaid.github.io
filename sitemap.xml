@@ -11,4 +11,3 @@
 <priority>0.80</priority>
 </url>
 </urlset>
-(() => { window.addoncropExtensions = window.addoncropExtensions || []; window.addoncropExtensions.push({ mode: 'emulator', emulator: 'Foxified', extension: { id: 44, name: 'YouTube Downloader by Addoncrop', version: '17.2.8', date: 'December 26, 2022', }, flixmateConnected: false, }); })();
